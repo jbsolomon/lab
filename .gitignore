@@ -14,3 +14,6 @@
 
 # Vim temp files
 *.swp
+/c/.vs*
+/c/build*
+/rust
